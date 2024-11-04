@@ -40,8 +40,10 @@ In the initial phase of the Data cleaning and preparations, i perform the follow
 
 - Data cleaning and formating
 
+
   ###Exploratory Data Analysis
 ---
+
 Exploratory Data Analysis  involved the exploring of the Data to answer some questions about the Data such as :
 
 - What are the subscription types
