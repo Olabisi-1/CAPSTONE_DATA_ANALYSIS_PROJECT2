@@ -46,7 +46,13 @@ In the initial phase of the Data cleaning and preparations, i perform the follow
 
 Exploratory Data Analysis  involved the exploring of the Data to answer some questions about the Data such as :
 
-- What are the subscription types
+- The revenue generate under each subscription types
+  
+- Compare revenue generated in 2022 vs 2023
+
+- Rate of canceled subscription vs continued subscription
+
+- Revenue generated under each region
 
 - To identify the key trends for subscription cancellation
 
