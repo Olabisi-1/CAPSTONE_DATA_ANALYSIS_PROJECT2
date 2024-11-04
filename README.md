@@ -40,8 +40,20 @@ In the initial phase of the Data cleaning and preparations, i perform the follow
 
 - Data cleaning and formating
 
+  ###Exploratory Data Analysis
+---
+Exploratory Data Analysis  involved the exploring of the Data to answer some questions about the Data such as :
 
-ethodology and Steps
+- What are the subscription types
+
+- To identify the key trends for subscription cancellation
+
+- The the subscription pattern
+
+- The most popular trend
+
+###Data Analysis
+---
 
 •###	Excel Analysis:
 
