@@ -10,17 +10,19 @@ Project 2: Customer Segmentation for a Subscription Service
 
 •	Analyze customer data to identify behavioral patterns, track subscription types, and discover trends in cancellations and renewals.
 
- ###Data Source
+ ###Data Sources
  ---
+ 
+ The primary source of Data used here is Customer Data from an Excel sheet provided by the LITA for the final project•	File Name: CustomerData
 
-•	File Name: CustomerData
+- 	Key Columns: CustomerId, Region, SubscriptionType, StartDate, EndDate
 
-•	Key Columns: CustomerId, Region, SubscriptionType, StartDate, EndDate
-
-•	Data Notes: This dataset includes customer subscription details, tracking metrics like region, subscription type, start and end dates.
+- 	Data Notes: This dataset includes customer subscription details, tracking metrics like region, subscription type, start and end dates.
 
 
-3.### Tools Used
+### Tools Used
+---
+
 
 •	Excel: For data exploration and summary reports.
 
