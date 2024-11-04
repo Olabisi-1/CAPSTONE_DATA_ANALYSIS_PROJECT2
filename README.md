@@ -122,7 +122,7 @@ o	Designed visuals to showcase:
 	Regional comparisons and popular subscription types
 
 
-5.### Key Insights from Customer Segmentation Analysis
+### Key Insights from Customer Segmentation Analysis
 
 •	Popular Subscription Type: The most popular subscription type was identified as Type X.
 
