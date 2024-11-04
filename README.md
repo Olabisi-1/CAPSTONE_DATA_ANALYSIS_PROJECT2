@@ -101,6 +101,11 @@ o	Designed visuals to showcase:
 •	Cancellation Trends: The highest cancellation rates occurred within the first six months.
 
 •	Top Regions by Cancellations: Regions A, B, and C had the highest rates of subscription cancellations.
+
+###Visualization
+
+![image](https://github.com/user-attachments/assets/13843660-6c52-47eb-934e-461a8b72b806)
+
 ________________________________________
 Conclusion
 This documentation provides an overview of the tools, methods, and findings from the Sales Performance and Customer Segmentation analyses. The Power BI dashboards created offer valuable interactive visuals, enabling stakeholders to understand and act on the data insights.
