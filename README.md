@@ -6,11 +6,12 @@ Project 2: Customer Segmentation for a Subscription Service
 
 ###Project Objective/Overview
 ---
-•	This Data Analysis project aim to generate an insight  Customer Segmentation towards subscription over the  year. by using various perimeters to evaluate sales performance from the data received and get enough insight to make reasonable decisions which them enable us to tell compelling stories around our data. 
+•	This Data Analysis project aim to generate an insight  Customer Segmentation towards subscription over the  year. by using various perimeters to evaluate Customer behaviour  and to track their subcription type from the data received and get enough insight to make reasonable decisions which them enable us to tell compelling stories around our data. 
+
 •	Analyze customer data to identify behavioral patterns, track subscription types, and discover trends in cancellations and renewals.
 
-
-2. ###Dataset
+ ###Data Source
+ ---
 
 •	File Name: CustomerData
 
