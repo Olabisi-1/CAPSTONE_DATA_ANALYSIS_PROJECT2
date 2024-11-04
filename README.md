@@ -108,6 +108,9 @@ o	Designed visuals to showcase:
 
 ![image](https://github.com/user-attachments/assets/13843660-6c52-47eb-934e-461a8b72b806)
 
+![image](https://github.com/user-attachments/assets/5347e902-cd19-4254-94eb-4605b4641121)
+
+
 ________________________________________
 Conclusion
 This documentation provides an overview of the tools, methods, and findings from the Sales Performance and Customer Segmentation analyses. The Power BI dashboards created offer valuable interactive visuals, enabling stakeholders to understand and act on the data insights.
