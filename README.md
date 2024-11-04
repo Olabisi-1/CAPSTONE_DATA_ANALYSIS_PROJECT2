@@ -30,7 +30,18 @@ Project 2: Customer Segmentation for a Subscription Service
 
 •	Power BI: Visualization of customer segmentation trends.
 
-4. ###Methodology and Steps
+ ###Data Cleaning And Preparation
+---
+In the initial phase of the Data cleaning and preparations, i perform the following actions:
+
+- Data loading and Inspection
+
+- handling missing variables
+
+- Data cleaning and formating
+
+
+ethodology and Steps
 
 •###	Excel Analysis:
 
