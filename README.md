@@ -26,7 +26,7 @@ Project 2: Customer Segmentation for a Subscription Service
 
 •	Excel: For data exploration and summary reports.
 
-•	MYSQL Server: Data querying for insights.
+•	MYSQL Server:  Structured Query Language  use for Data querying to get an insights.
 
 •	Power BI: Visualization of customer segmentation trends.
 
